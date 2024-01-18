@@ -24,9 +24,10 @@ SOCIAL_MEDIA = {
     "GitHub": " https://github.com/mannu1995 ",
 }
 PROJECTS = {
-    "🏆 EmployeeManagement - I workedandcreatedtheCRUDoperationforadding": " https://github.com/mannu1995/Emoployee_management_system",
-    "🏆 Schoot_Tearchers_Student_data_API - Web app with mySQL database": " https://github.com/mannu1995/School_Teacher_Studend_api",
-    "🏆  I havecreated this project in which we canconvert the image....": "https://github.com/mannu1995/Image_editer",
+    "🏆 Employee-Management Syatem ": " https://github.com/mannu1995/Emoployee_management_system",
+    "🏆 Schoot_Tearchers_Student_data_API ": " https://github.com/mannu1995/School_Teacher_Studend_api",
+    "🏆  Image-Editer": "https://github.com/mannu1995/Image_editer",
+    "🏆  SignUp-Login-logOut system": " https://github.com/mannu1995/signup_and_login_system",
 }
 
 
